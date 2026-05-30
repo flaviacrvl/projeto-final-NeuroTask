@@ -22,7 +22,7 @@ git clone https://github.com/flaviacrvl/projeto-final-NeuroTask
 Entre na pasta:
 
 ```bash
-cd NeuroTask-backend
+cd projeto-final-NeuroTask
 ```
 
 Instale as dependências:
